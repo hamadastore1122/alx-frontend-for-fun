@@ -1,8 +1,5 @@
 # Flexbox
 
-## Description:bulb:
-Different possible properties using CSS Flexbox layout
-
 * What is Flexbox?
 * How to convert float positioning to a flex display
 * How to horizontally and vertically align elements using Flexbox
@@ -65,4 +62,4 @@ Read or watch:
 ---
 
 ## Author
-* **Joseph Mahiuha** - [Mahiuha](https://github.com/Mahiuha)
+** mohammed yahya abdelrahman
