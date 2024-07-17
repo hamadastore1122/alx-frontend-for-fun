@@ -22,7 +22,8 @@ Read or watch:
 * [Flexplorer] (https://intranet.hbtn.io/rltoken/ohwl6NowC67_ejCOcengmA)
 * [CSS Flexible Box Layout Module Level 1] (https://intranet.hbtn.io/rltoken/v8wWIB7dkx727ZusAhZTRA)
 * [FLEX: A simple visual cheatsheet for flexbox] (https://intranet.hbtn.io/rltoken/zQ3BAUi2w8bz5qKNfNxemQ)
-
+*[best wabsite to learn css 1] (https://harmash.com/tutorials/css/overview#google_vignette)
+  [best wabsite to learn css 2] (https://www.w3schools.com/css/default.asp)
 ---
 
 ### [0. Add display flex](./0-index.html)
