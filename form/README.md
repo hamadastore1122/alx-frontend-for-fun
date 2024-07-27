@@ -1,7 +1,7 @@
 # Forms
 
 ## Description:bulb:
-How to build an HTML5 form and style it
+------------- How to build an HTML5 form and style it ------------
 
 * How to create an HTML5 form
 * How to choose the right input type
@@ -56,3 +56,8 @@ Read or watch:
 ### [6. add the search form](./07-article.html)
 
 ---
+
+
+### Auther 
+
+* mohammed yahya abdelrahman shareef    [hamadastore22@gmail.com]
