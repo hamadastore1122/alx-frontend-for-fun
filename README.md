@@ -54,7 +54,7 @@ Read or watch:
 ### [5. add pure HTML / CSS error handling](./06-styles.css)
 
 ### Auther 
-* mohammed yahya abdelrahman  [hamadastore22@gmail.com]
+* mohammed yahya abdelrahman shareef  [hamadastore22@gmail.com]
 
 ### [6. add the search form](./07-article.html)
 
